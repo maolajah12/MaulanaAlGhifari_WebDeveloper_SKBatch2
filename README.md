@@ -3,7 +3,7 @@
 Satu section landing page rekrutmen yang responsif: headline, kartu posisi, dan CTA.
 Dibuat dengan React + Vite dan CSS biasa.
 
-**Demo:** <tempel link GitHub Pages di sini>
+**Demo:** https://maolajah12.github.io/MaulanaAlGhifari__WebDeveloper_SKBatch2/
 
 ## Cara menjalankan
 
